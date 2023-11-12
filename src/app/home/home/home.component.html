@@ -1,15 +1,58 @@
 <div class="image-container">
-    <img src="../../../assets/img/santa_se_2.jpg" alt="" class="backgroud" srcset="">
+  <img src="../../../assets/img/santa_se_2.jpg" alt="" class="backgroud" srcset="">
+  <div class="bannerContainer">
     <img src="../../../assets/img/logo.png" alt="" class="logo">
+    <h1 class="tituloBanner">IGREJA EVANGELICA BRASILEIRA</h1>
+  </div>
 </div>
-<div class="congregacoes">
+<div class="container-fluid">
+  <div class="congregacoes">
+    <div class="row">
+      <div class="col-6">
+        <h3>Congregações</h3>
+      </div>
+      <div class="col-6 buttonVerTotas">
+        <a href="#" class="btn btn-primary">Ver Totas</a>
+      </div>
+    </div>
     <owl-carousel-o [options]="customOptions">
-        <ng-container *ngFor="let vehicle of vehicles">
-          <ng-template carouselSlide>
-            <div class="card-img">
-                <img [src]="vehicle.imageUrl" [alt]="vehicle.version" [title]="vehicle.title">
+      <ng-container *ngFor="let congregacao of congregacoes">
+        <ng-template carouselSlide>
+          <div class="card-img">
+            <div class="card" style="width: 18rem;">
+              <img [src]="congregacao.imageUrl" [alt]="congregacao.nome" [title]="congregacao.nome">
+              <!-- <img src="../../../assets/img/santa_se_2.jpg" class="card-img-top" alt="..."> -->
+              <div class="card-body">
+                <h5 class="card-title">{{congregacao.nome}}</h5>
+                <p class="card-text">Descrição Congregação</p>
+                <a href="#" class="btn btn-primary">Ver Mais</a>
+              </div>
             </div>
-          </ng-template>
-        </ng-container>
-      </owl-carousel-o>
+          </div>
+        </ng-template>
+      </ng-container>
+    </owl-carousel-o>
+  </div>
+  <div class="noticias">
+    <div class="row">
+      <div class="col-6">
+        <h3>Ultimas Notícias</h3>
+      </div>
+      <div class="col-6 buttonVerTotas">
+        <a href="#" class="btn btn-primary">Ver Totas</a>
+      </div>
+    </div>
+
+    <div class="ultimasNoticias">
+      <div class="card" style="width: 18rem;" *ngFor="let noticia of noticias">
+        <img src="../../../assets/img/santa_se_2.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Noticia</h5>
+          <p class="card-text">Lorem ipsum dolor sit amet. Ut nostrum corporis sit quisquam maiores aut error nisi est illum facere cum ducimus alias.</p>
+          <a href="#" class="btn btn-primary">Ler Mais</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
 </div>

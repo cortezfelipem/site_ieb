@@ -7,105 +7,26 @@ import { OwlOptions } from 'ngx-owl-carousel-o';
   styleUrls: ['./home.component.css']
 })
 export class HomeComponent {
-  vehicles = [
+  congregacoes = [
     {
-      url: '#',
+      nome: 'Maranhão',
       imageUrl: '../../../assets/img/santa_se_2.jpg',
-      title: 'VOLKSWAGEN GOLF',
-      version: '1.4 TSI HIGHLINE 16V GASOLINA 4P AUTOMÁTICO',
-      price: 'R$ 74.890',
-      year: '2015/2015',
-      mileage: '97.298 km',
-      location: 'Osasco - SP',
-      isFavorite: true // You can set this based on user interaction
     },
     {
-      url: '#',
+      nome: 'Sede - São Paulo',
       imageUrl: '../../../assets/img/santa_se_2.jpg',
-      title: 'VOLKSWAGEN GOLF',
-      version: '1.4 TSI HIGHLINE 16V GASOLINA 4P AUTOMÁTICO',
-      price: 'R$ 74.890',
-      year: '2015/2015',
-      mileage: '97.298 km',
-      location: 'Osasco - SP',
-      isFavorite: true // You can set this based on user interaction
     },
     {
-      url: '#',
+      nome: 'Mogi Mirim',
       imageUrl: '../../../assets/img/santa_se_2.jpg',
-      title: 'VOLKSWAGEN GOLF',
-      version: '1.4 TSI HIGHLINE 16V GASOLINA 4P AUTOMÁTICO',
-      price: 'R$ 74.890',
-      year: '2015/2015',
-      mileage: '97.298 km',
-      location: 'Osasco - SP',
-      isFavorite: true // You can set this based on user interaction
     },
     {
-      url: '#',
+      nome: 'Paraná',
       imageUrl: '../../../assets/img/santa_se_2.jpg',
-      title: 'VOLKSWAGEN GOLF',
-      version: '1.4 TSI HIGHLINE 16V GASOLINA 4P AUTOMÁTICO',
-      price: 'R$ 74.890',
-      year: '2015/2015',
-      mileage: '97.298 km',
-      location: 'Osasco - SP',
-      isFavorite: true // You can set this based on user interaction
     },
     {
-      url: '#',
+      nome: 'Santa Sé',
       imageUrl: '../../../assets/img/santa_se_2.jpg',
-      title: 'VOLKSWAGEN GOLF',
-      version: '1.4 TSI HIGHLINE 16V GASOLINA 4P AUTOMÁTICO',
-      price: 'R$ 74.890',
-      year: '2015/2015',
-      mileage: '97.298 km',
-      location: 'Osasco - SP',
-      isFavorite: true // You can set this based on user interaction
-    },
-    {
-      url: '#',
-      imageUrl: '../../../assets/img/santa_se_2.jpg',
-      title: 'VOLKSWAGEN GOLF',
-      version: '1.4 TSI HIGHLINE 16V GASOLINA 4P AUTOMÁTICO',
-      price: 'R$ 74.890',
-      year: '2015/2015',
-      mileage: '97.298 km',
-      location: 'Osasco - SP',
-      isFavorite: true // You can set this based on user interaction
-    },
-    {
-      url: '#',
-      imageUrl: '../../../assets/img/santa_se_2.jpg',
-      title: 'VOLKSWAGEN GOLF',
-      version: '1.4 TSI HIGHLINE 16V GASOLINA 4P AUTOMÁTICO',
-      price: 'R$ 74.890',
-      year: '2015/2015',
-      mileage: '97.298 km',
-      location: 'Osasco - SP',
-      isFavorite: true // You can set this based on user interaction
-    },
-    {
-      url: '#',
-      imageUrl: '../../../assets/img/santa_se_2.jpg',
-      title: 'VOLKSWAGEN GOLF',
-      version: '1.4 TSI HIGHLINE 16V GASOLINA 4P AUTOMÁTICO',
-      price: 'R$ 74.890',
-      year: '2015/2015',
-      mileage: '97.298 km',
-      location: 'Osasco - SP',
-      isFavorite: true // You can set this based on user interaction
-    },
-    {
-      url: '#',
-      imageUrl: '../../../assets/img/santa_se_2.jpg',
-      title: 'VOLKSWAGEN GOLF',
-      version: '1.4 TSI HIGHLINE 16V GASOLINA 4P AUTOMÁTICO',
-      price: 'R$ 74.890',
-      year: '2015/2015',
-      mileage: '97.298 km',
-      location: 'Osasco - SP',
-      isFavorite: true // You can set this based on user interaction
     },
 
     // Add more vehicle objects as needed
@@ -119,4 +40,21 @@ export class HomeComponent {
     items: 3,
     lazyLoad: true
   }
+
+  noticias = [
+    {
+      nome: 'Sede - São Paulo',
+    },
+    {
+      nome: 'Mogi Mirim',
+    },
+    {
+      nome: 'Paraná',
+    },
+    {
+      nome: 'Santa Sé',
+    },
+
+  ];
+
 }
