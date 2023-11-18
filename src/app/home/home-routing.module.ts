@@ -7,9 +7,8 @@ import { HomeComponent } from './home/home.component';
 const routes: Routes = [
   {
     path: '',
-    component: HomeComponent, // Quando a rota vazia for acessada, carrega o HomeComponent
+    component: HomeComponent,
   },
-  // Outras rotas específicas para o módulo HomeModule, se necessário
 ];
 
 @NgModule({

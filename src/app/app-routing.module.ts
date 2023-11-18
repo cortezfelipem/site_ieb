@@ -11,6 +11,18 @@ const routes: Routes = [
     path: '',
     loadChildren: () => import('./home/home.module').then((m) => m.HomeModule),
   },
+  {
+    path: 'congregacoes',
+    loadChildren: () => import('./congregacoes/congregacoes.module').then(m => m.CongregacoesModule)
+  },
+  {
+    path: 'cultos-propaganda',
+    loadChildren: () => import('./cultos-propaganda/cultos-propaganda.module').then(m => m.CultosPropagandaModule)
+  },
+  {
+    path: 'datas-comemoradas',
+    loadChildren: () => import('./datas-comemoradas/datas-comemoradas.module').then(m => m.DatasComemoradasModule)
+  },
 ];
 // const routerOptions: ExtraOptions = {
 //   enableTracing: true, // Ativa o modo de depuração do roteamento

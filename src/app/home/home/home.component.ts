@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { CongregacoesService } from 'src/app/shared/service/congregacoes.service';
 import { OwlOptions } from 'ngx-owl-carousel-o';
 
 @Component({
@@ -7,7 +8,18 @@ import { OwlOptions } from 'ngx-owl-carousel-o';
   styleUrls: ['./home.component.css']
 })
 export class HomeComponent {
-  congregacoes = [
+  congregacoes: any[] = [];
+
+  constructor(private congregacoesService: CongregacoesService) {}
+
+  ngOnInit(): void {
+    this.congregacoesService.getCongregacoes().subscribe((data) => {
+      this.congregacoes = data.estados;
+      console.log(this.congregacoes)
+    });
+  }
+  
+  congregacoes1 = [
     {
       nome: 'Maranhão',
       imageUrl: '../../../assets/img/santa_se_2.jpg',
@@ -35,7 +47,7 @@ export class HomeComponent {
     loop: true,
     dots: false,
     nav: true,
-    navText: ['Anterior' ,  'Proximo'],
+    navText: ['<i class="fas fa-chevron-left left-i"></i>', '<i class="fas fa-chevron-right right-i"></i>'],
     center: true,
     items: 3,
     lazyLoad: true
@@ -50,10 +62,7 @@ export class HomeComponent {
     },
     {
       nome: 'Paraná',
-    },
-    {
-      nome: 'Santa Sé',
-    },
+    }
 
   ];
 

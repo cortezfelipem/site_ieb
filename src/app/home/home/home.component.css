@@ -4,6 +4,9 @@
     object-fit: cover;
     object-position: center 36%;
 }
+.home-container{
+    background-color: #eee;
+}
 .image-container {
     position: relative; 
     display: flex;
@@ -51,4 +54,27 @@
     justify-content: center;
     flex-wrap: wrap;
     flex-direction: column;
+}
+.noticiaData{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.cor-primaria {
+    background-color: var(--cor-primaria);
+    color: #fff;
+}
+.row-carousel owl-carousel-o{
+    position: relative!important;
+}
+::ng-deep .owl-prev{
+    position: absolute!important;
+    top: 50%!important;
+    left: 0!important;
+}
+::ng-deep .owl-next {
+    position: absolute !important;
+    top: 50% !important;
+    right: 0 !important;
 }
