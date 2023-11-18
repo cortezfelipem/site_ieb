@@ -1,0 +1,7 @@
+<div *ngFor="let estado of estados">
+    <h2>{{ estado.nome }}</h2>
+    <div *ngFor="let cidade of estado.cidades">
+      <span>{{ cidade.nome }}</span> <span> - {{ cidade.endereco }}</span>
+      <!-- <p>{{ cidade.descricao }}</p> -->
+    </div>
+</div>

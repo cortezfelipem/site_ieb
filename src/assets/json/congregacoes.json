@@ -1,0 +1,194 @@
+{
+  "estados": [
+    {
+      "nome": "Rio de Janeiro",
+      "cidades": [
+        {
+          "nome": "CAPITAL (Sede da Igreja)",
+          "descricao": "",
+          "endereco": "Rua Visconde Duprat, 103, Cidade Nova"
+        },
+        {
+          "nome": "VIGÁRIO GERAL",
+          "descricao": "",
+          "endereco": "Avenida B, 456"
+        },
+        {
+          "nome": "BANGU",
+          "descricao": "",
+          "endereco": "Avenida B, 456"
+        },
+        {
+          "nome": "BONSUCESSO",
+          "descricao": "",
+          "endereco": "Avenida B, 456"
+        },
+        {
+          "nome": "VOLTA REDONDA",
+          "descricao": "",
+          "endereco": "Avenida B, 456"
+        }
+      ]
+    },
+    {
+      "nome": "São Paulo - Capital",
+      "cidades": [
+        {
+          "nome": "BRÁS(Congregação Sede do Estado)",
+          "descricao": "",
+          "endereco": "Rua X, 789"
+        },
+        {
+          "nome": "TATUAPÉ (Guaiaúna)",
+          "descricao": "",
+          "endereco": "Avenida Y, 012"
+        },
+        {
+          "nome": "BUTANTÃ (Rio Pequeno)",
+          "descricao": "",
+          "endereco": "Avenida Y, 012"
+        },
+        {
+          "nome": "FERRAZ DE VASCONCELOS (Guaianazes)",
+          "descricao": "",
+          "endereco": "Avenida Y, 012"
+        }
+      ]
+    },
+    {
+      "nome": "São Paulo - Interior",
+      "cidades": [
+        {
+          "nome": "PIRASSUNGA",
+          "descricao": "",
+          "endereco": "Rua Z, 345"
+        },
+        {
+          "nome": "BRAGANÇA PAULISTA",
+          "descricao": "",
+          "endereco": "Rua Z, 345"
+        },
+        {
+          "nome": "TUIUTI",
+          "descricao": "",
+          "endereco": "Rua Z, 345"
+        },
+        {
+          "nome": "CAMPINAS",
+          "descricao": "",
+          "endereco": "Rua Z, 345"
+        },
+        {
+          "nome": "PITANGUEIRAS",
+          "descricao": "",
+          "endereco": "Rua Z, 345"
+        },
+        {
+          "nome": "MOGI MIRIM",
+          "descricao": "",
+          "endereco": "Avenida W, 678"
+        }
+      ]
+    },
+    {
+      "nome": "Pernambuco",
+      "cidades": [
+        {
+          "nome": "RECIFE",
+          "descricao": "",
+          "endereco": "Rua Z, 345"
+        }
+      ]
+    },
+    {
+      "nome": "CANOAS",
+      "cidades": [
+        {
+          "nome": "Campinas",
+          "descricao": "",
+          "endereco": "Rua Z, 345"
+        }
+      ]
+    },
+    {
+      "nome": "Alagoas",
+      "cidades": [
+        {
+          "nome": "CORURIPE",
+          "descricao": "",
+          "endereco": "Rua Z, 345"
+        }
+      ]
+    },
+    {
+      "nome": "Minas Gerais",
+      "cidades": [
+        {
+          "nome": "POUSO ALEGRE",
+          "descricao": "",
+          "endereco": "Rua Z, 345"
+        }
+      ]
+    },
+    {
+      "nome": "Rondônia",
+      "cidades": [
+        {
+          "nome": "ROLIM DE MOURA",
+          "descricao": "",
+          "endereco": "Rua Z, 345"
+        }
+      ]
+    },
+    {
+      "nome": "Paraná",
+      "cidades": [
+        {
+          "nome": "LUIZIANA",
+          "descricao": "",
+          "endereco": "Rua Z, 345"
+        }
+      ]
+    },
+    {
+      "nome": "Brasília",
+      "cidades": [
+        {
+          "nome": "NÚCLEO BANDEIRANTES",
+          "descricao": "",
+          "endereco": "Rua Z, 345"
+        }
+      ]
+    },
+    {
+      "nome": "Maranhão",
+      "cidades": [
+        {
+          "nome": "SÃO LUIS",
+          "descricao": "",
+          "endereco": "Rua Z, 345"
+        }
+      ]
+    },
+    {
+      "nome": "Bahia",
+      "cidades": [
+        {
+          "nome": "POÇÕES",
+          "descricao": "",
+          "endereco": "Rua Z, 345"
+        },
+        {
+          "nome": "VITÓRIA DA CONQUISTA",
+          "descricao": "",
+          "endereco": "Rua Z, 345"
+        },
+        {
+          "nome": "IGUAI",
+          "descricao": "",
+          "endereco": "Rua Z, 345"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+
+<pagination-controls (pageChange)="onPageChange($event)"
+previousLabel="Prev"
+nextLabel="Next"
+></pagination-controls>
+
+<div *ngFor="let mes of meses | paginate: {
+                                  itemsPerPage: 1,
+                                  currentPage: paginaAtual,
+                                  totalItems: 12
+                                }">
+  <h2>{{ mes }}</h2>
+  <ul>
+    <li *ngFor="let evento of eventosPorMes[mes]">
+      {{ evento.titulo }} - {{ evento.data }}
+    </li>
+  </ul>
+</div>
+
+

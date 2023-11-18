@@ -1,0 +1,260 @@
+{
+    "mes1": [
+      {
+        "icone": "../fotos/coruripe/coruripe_icone.jpg",
+        "titulo": "48º aniversário da Congregação de Coruripe-AL",
+        "pagina": "../coruripe.htm",
+        "data": "8 de janeiro de 1975"
+      },
+      {
+        "icone": "../fotos/recife/recife_icone.jpg",
+        "titulo": "77º aniversário da Congregação de Recife-PE",
+        "pagina": "../recife.htm",
+        "data": "20 de janeiro de 1946"
+      },
+      {
+        "icone": "../fotos/parana/parana_icone.jpg",
+        "titulo": "30º aniversário da Congregação de Luiziana-PR",
+        "pagina": "../parana.htm",
+        "data": "24 de janeiro de 1993"
+      },
+      {
+        "icone": "",
+        "titulo": "Cultos às 19:20, em todas as Congregações, durante a semana de 2/1 a 7/01",
+        "pagina": "",
+        "data": "Semana de Oração"
+      }
+    ],
+  
+    "mes2": [
+      {
+        "icone": "../fotos/curitibanos/curitibanos_icone.jpg",
+        "titulo": "77º aniversário da Congregação de Curitibanos-SP",
+        "pagina": "../curitibanos.htm",
+        "data": "10 de fevereiro de 1946"
+      },
+      {
+        "icone": "../fotos/doutor_miguel/dr_miguel_icone.jpg",
+        "titulo": "149º aniversário da Conversão do Doutor Miguel",
+        "pagina": "../conversao.htm",
+        "data": "22 de fevereiro de 1874"
+      },
+      {
+        "icone": "../fotos/sao_luis/sao_luis_icone2.png",
+        "titulo": "46º aniversário da Congregação de São Luís-MA",
+        "pagina": "../sao_luis.htm",
+        "data": "27 de fevereiro de 1977"
+      },
+      {
+        "icone": "../fotos/d_isabel/d_isabel_icone.jpg",
+        "titulo": "167º aniversário do nascimento de Dona Isabel",
+        "pagina": "../d_isabel.htm",
+        "data": "29 de fevereiro de 1856"
+      },
+      {
+        "icone": "../fotos/guaianazes/guaianazes_icone.jpg",
+        "titulo": "47º aniversário da Congregação de Guaianazes-SP",
+        "pagina": "../guaianazes.htm",
+        "data": "29 de fevereiro de 1976"
+      }
+    ],
+  
+    "mes3": [
+      {
+        "icone": "../fotos/pitangueiras/pitangueiras_icone.jpg",
+        "titulo": "36º aniversário da Congregação de Pitangueiras-SP",
+        "pagina": "../pitangueiras.htm",
+        "data": "22 de março de 1987"
+      }
+    ],
+  
+    "mes4": [
+      {
+        "icone": "../fotos/canoas/rio_grande_icone.jpg",
+        "titulo": "65º aniversário da Congregação de Canoas-RS",
+        "pagina": "../rio_grande.htm",
+        "data": "20 de abril de 1958"
+      }
+    ],
+  
+    "mes5": [
+      {
+        "icone": "../fotos/vigario_geral/vigario_geral_icone.jpg",
+        "titulo": "90º aniversário da Congregação de Vigário Geral-RJ",
+        "pagina": "../vigario_geral.htm",
+        "data": "14 de maio de 1933"
+      },
+      {
+        "icone": "../fotos/rio_pequeno/rio_pequeno_icone.jpg",
+        "titulo": "72º aniversário da Congregação de Rio Pequeno-SP",
+        "pagina": "../rio_pequeno.htm",
+        "data": "20 de maio de 1951"
+      }
+    ],
+  
+    "mes6": [
+      {
+        "icone": "../fotos/pocoes/pocoes_icone.jpg",
+        "titulo": "69º aniversário da Congregação de Poções-BA",
+        "pagina": "../pocoes.htm",
+        "data": "6 de junho de 1954"
+      },
+      {
+        "icone": "../fotos/vitoria_conquista/vitoria_conquista_icone.jpg",
+        "titulo": "25º aniversário da Congregação de Vitória da Conquista-BA",
+        "pagina": "../vitoria_conquista.htm",
+        "data": "7 de junho de 1998"
+      },
+      {
+        "icone": "../fotos/bangu/bangu_icone.jpg",
+        "titulo": "121º aniversário da Congregação de Bangú -RJ",
+        "pagina": "../bangu.htm",
+        "data": "13 de junho de 1902"
+      },
+      {
+        "icone": "../fotos/arraial/arraial_icone.jpg",
+        "titulo": "45º aniversário da Congregação de Arraial-SP",
+        "pagina": "../arraial.htm",
+        "data": "18 de junho de 1978"
+      },
+      {
+        "icone": "../fotos/brasilia/brasilia_icone.jpg",
+        "titulo": "31º aniversário da Congregação de Brasília-DF",
+        "pagina": "../brasilia.htm",
+        "data": "21 de junho de 1992"
+      },
+      {
+        "icone": "../fotos/recife/recife_icone.jpg",
+        "titulo": "69º aniversário da reabertura da Congregação de Recife-PE",
+        "pagina": "../recife.htm",
+        "data": "27 de junho de 1954"
+      },
+      {
+        "icone": "../fotos/guaiauna/guaiauna_icone.jpg",
+        "titulo": "82º aniversário da Congregação de Guaiaúna-SP",
+        "pagina": "../guaiauna.htm",
+        "data": "29 de junho de 1941"
+      }
+    ],
+  
+    "mes7": [
+      {
+        "icone": "../fotos/rondonia/rondonia-icone.jpg",
+        "titulo": "38º aniversário da Congregação de Rondônia-RO",
+        "pagina": "../rondonia.htm",
+        "data": "21 de julho de 1985"
+      },
+      {
+        "icone": "../fotos/volta_redonda/volta_redonda_icone.jpg",
+        "titulo": "37º aniversário da Congregação de Volta Redonda-RJ",
+        "pagina": "../volta_redonda.htm",
+        "data": "27 de julho de 1986"
+      }
+    ],
+  
+    "mes8": [
+      {
+        "icone": "../fotos/campinas/campinas_icone.jpg",
+        "titulo": "37º aniversário da Congregação de Campinas-SP",
+        "pagina": "../campinas.htm",
+        "data": "24 de agosto de 1986"
+      },
+      {
+        "icone": "../fotos/Sede-SP/sede_sp_icone.jpg",
+        "titulo": "110º aniversário da Congregação Sede de São Paulo-SP",
+        "pagina": "../fotos/Sede-SP/sede_sp_fotos.htm",
+        "data": "26 de agosto de 1913"
+      }
+    ],
+  
+    "mes9": [
+      {
+        "icone": "../fotos/rev_Israel/rev_israel_icone.jpg",
+        "titulo": "140º aniversário do nascimento do Rev. Israel Vieira Ferreira - o Filho da Promessa",
+        "pagina": "../revIsrael.htm",
+        "data": "4 de setembro de 1883"
+      },
+      {
+        "icone": "../fotos/rio/templo_novo/sede_rio_icone2.jpg",
+        "titulo": "144º aniversário da fundação da Igreja Evangélica Brasileira",
+        "pagina": "../fundacao.htm",
+        "data": "11 de setembro de 1879"
+      },
+      {
+        "icone": "../fotos/d_isabel/d_isabel_icone.jpg",
+        "titulo": "141º aniversário do casamento do Doutor Miguel com Dona Isabel",
+        "pagina": "../d_isabel.htm",
+        "data": "24 de setembro de 1882"
+      },
+      {
+        "icone": "../fotos/rev_Israel/rev_israel_icone2.jpg",
+        "titulo": "112º aniversário da ordenação do Rev. Israel Vieira Ferreira",
+        "pagina": "../24_setembro_1941.htm",
+        "data": "24 de setembro de 1911"
+      }
+    ],
+  
+    "mes10": [
+      {
+        "icone": "../fotos/bonsucesso/bonsucesso_icone.jpg",
+        "titulo": "142º aniversário da Congregação de Bonsucesso -RJ",
+        "pagina": "../bonsucesso.htm",
+        "data": "19 de outubro de 1881"
+      },
+      {
+        "icone": "../fotos/pouso_alegre/pouso_alegre_icone.jpg",
+        "titulo": "48º aniversário da Congregação de Pouso Alegre -MG",
+        "pagina": "../pouso_alegre.htm",
+        "data": "19 de outubro de 1975"
+      }
+    ],
+  
+    "mes11": [
+      {
+        "icone": "../fotos/mogi_mirim/mogi_mirim_icone.jpg",
+        "titulo": "33º aniversário da Congregação de Mogi Mirim -SP",
+        "pagina": "../mogi_mirim.htm",
+        "data": "19 de novembro de 1989"
+      }
+    ],
+  
+    "mes12": [
+      {
+        "icone": "../fotos/doutor_miguel/dr_miguel_icone.jpg",
+        "titulo": "185º aniversário do nascimento do fundador da Igreja: Doutor Miguel Vieira Ferreira",
+        "pagina": "/doutor_miguel/dr_miguel.html",
+        "data": "10 de dezembro de 1837"
+      },
+      {
+        "icone": "../fotos/pirassununga/pirassununga_icone.jpg",
+        "titulo": "48º aniversário da Congregação de Pirassununga -SP",
+        "pagina": "../pirassununga.htm",
+        "data": "15 de dezembro de 1974"
+      },
+      {
+        "icone": "../fotos/tres_barras/tres_barras_icone.jpg",
+        "titulo": "106º aniversário da Congregação de Três Barras -BA",
+        "pagina": "../tres_barras.htm",
+        "data": "24 de dezembro de 1916"
+      },
+      {
+        "icone": "",
+        "titulo": "Natal - Culto de Vigília, nas Congregações, no dia 24 às 23:30",
+        "pagina": "",
+        "data": "25 de dezembro"
+      },
+      {
+        "icone": "../fotos/iguai/iguai_icone.jpg",
+        "titulo": "29º aniversário da Congregação de Iguaí -BA",
+        "pagina": "../iguai.htm",
+        "data": "26 de dezembro de 1993"
+      },
+      {
+        "icone": "",
+        "titulo": "Ano novo - Culto de Vigília, nas Congregações, no dia 31 às 23:30",
+        "pagina": "",
+        "data": "31 de dezembro"
+      }
+    ]
+  }
+  
