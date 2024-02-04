@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { DrMiguelComponent } from './dr-miguel/dr-miguel.component';
+import { DrMiguelRoutingModule } from './dr-miguel-routing.module';
 
 
 
@@ -9,7 +10,7 @@ import { DrMiguelComponent } from './dr-miguel/dr-miguel.component';
     DrMiguelComponent
   ],
   imports: [
-    CommonModule
+    CommonModule, DrMiguelRoutingModule
   ]
 })
 export class DrMiguelModule { }

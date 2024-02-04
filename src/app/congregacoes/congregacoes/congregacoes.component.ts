@@ -8,12 +8,17 @@ import { CongregacoesService } from 'src/app/shared/service/congregacoes.service
 })
 export class CongregacoesComponent {
   estados: any[] = [];
+  users: any[] = [];
 
   constructor(private congregacoesService: CongregacoesService) {}
 
   ngOnInit(): void {
     this.congregacoesService.getCongregacoes().subscribe((data) => {
       this.estados = data.estados;
+    });
+    this.congregacoesService.getUsers().subscribe((data) => {
+      console.log(data)
+      this.users = data.user;
     });
   }
   calcularTotalCidades(): number {

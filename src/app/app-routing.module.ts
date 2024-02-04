@@ -23,6 +23,14 @@ const routes: Routes = [
     path: 'datas-comemoradas',
     loadChildren: () => import('./datas-comemoradas/datas-comemoradas.module').then(m => m.DatasComemoradasModule)
   },
+  {
+    path: 'rev-israel',
+    loadChildren: () => import('./rev-israel/rev-israel.module').then(m => m.RevIsraelModule)
+  },
+  {
+    path: 'dr-miguel',
+    loadChildren: () => import('./dr-miguel/dr-miguel.module').then(m => m.DrMiguelModule)
+  },
 ];
 // const routerOptions: ExtraOptions = {
 //   enableTracing: true, // Ativa o modo de depuração do roteamento

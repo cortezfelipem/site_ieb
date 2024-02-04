@@ -32,14 +32,47 @@
 
       </div>
       <div class="datasComemoradas col-4">
-        <div>
-          <div>
-            <span>12</span>
-            <span>DEZ</span>
+        <div class="item-data">
+          <div class="col-2 div-data">
+            <span>10</span> 
+            <hr>
+            <span>FEV</span>
           </div>
-          <div>sobre a data</div>
+          <div class="col-10">sobre a data</div>
         </div>
-        <div><a href="/datas-comemoradas">Ver todas as datas</a></div>
+        <div class="item-data">
+          <div class="col-2 div-data">
+            <span>22</span> 
+            <hr>
+            <span>FEV</span>
+          </div>
+          <div class="col-10">sobre a data</div>
+        </div>
+        <div class="item-data">
+          <div class="col-2 div-data">
+            <span>27</span> 
+            <hr>
+            <span>FEV</span>
+          </div>
+          <div class="col-10">sobre a data</div>
+        </div>
+        <div class="item-data">
+          <div class="col-2 div-data">
+            <span>29</span> 
+            <hr>
+            <span>FEV</span>
+          </div>
+          <div class="col-10">sobre a data</div>
+        </div>
+        <div class="item-data">
+          <div class="col-2 div-data">
+            <span>29</span> 
+            <hr>
+            <span>FEV</span>
+          </div>
+          <div class="col-10">sobre a data</div>
+        </div>
+        <div class="col-12 all-data"><a href="/datas-comemoradas">Ver todas as datas</a></div>
       </div>
     </div>
     
@@ -58,7 +91,7 @@
             <ng-container *ngFor="let congregacao of estado.cidades">
               <ng-template carouselSlide>
                 <div class="card-img">
-                  <div class="card" style="width: 18rem;">
+                  <div class="card" style="width: 29rem;">
                     <img src="../../../assets/img/santa_se_2.jpg" [alt]="congregacao.nome" [title]="congregacao.nome">
                     <div class="card-body">
                       <h5 class="card-title">{{congregacao.nome}}</h5>
