@@ -14,6 +14,7 @@ import { DatasComemoradasModule } from './datas-comemoradas/datas-comemoradas.mo
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { DrMiguelModule } from './dr-miguel/dr-miguel.module';
 import { RevIsraelModule } from './rev-israel/rev-israel.module';
+import { HistoricoModule } from './historico/historico.module';
 
 @NgModule({
   declarations: [
@@ -31,6 +32,7 @@ import { RevIsraelModule } from './rev-israel/rev-israel.module';
     DatasComemoradasModule,
     DrMiguelModule,
     RevIsraelModule,
+    HistoricoModule,
     HttpClientModule,
     RouterModule,
   ],

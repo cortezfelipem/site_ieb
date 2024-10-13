@@ -8,7 +8,6 @@ import { DatasService } from 'src/app/shared/service/datas.service';
 })
 export class DatasComemoradasComponent {
   dados: { [key: string]: any[] } = {};
-  // eventosPorMes: any[];
   eventosPaginados: any[];
   currentPage = 1;
   meses: string[] = [];
@@ -18,10 +17,9 @@ export class DatasComemoradasComponent {
   eventosPorPagina = 2;
 
   constructor(private dataService: DatasService) {
-    // this.eventosPorMes = [];
     this.eventosPaginados = [];
-    
   }
+
   ngOnInit(): void {
     this.paginaAtual = this.obterMesAtual();
     this.dataService.getData().subscribe((data) => {
@@ -37,8 +35,25 @@ export class DatasComemoradasComponent {
     // Lógica para dividir os eventos por mês
     this.meses.forEach((mes) => {
       const eventos = this.dados[mes];
-      this.eventosPorMes[mes] = eventos;
+      // this.eventosPorMes[mes] = eventos;
+      this.eventosPorMes[mes] = eventos.map(evento => {
+        // Adiciona o número do aniversário ao título
+        const aniversarioNumero = this.calcularNumeroAniversario(evento.dataISO);
+        return {
+          ...evento,
+          titulo: `${aniversarioNumero}º ${evento.titulo}` // Formata o título com o número do aniversário
+        };
+      });
     });
+  }
+
+  private calcularNumeroAniversario(dataISO: string): number {
+    if (!dataISO) return 0; // Retorna 0 se dataISO for nula
+
+    const data = new Date(dataISO);
+    const anoAtual = new Date().getFullYear();
+    const numeroAniversario = anoAtual - data.getFullYear() + 1; // +1 para contar o ano atual
+    return numeroAniversario;
   }
 
   onPageChange(pagina: number) {

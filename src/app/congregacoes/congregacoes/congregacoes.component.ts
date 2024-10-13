@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Router } from '@angular/router';
 import { CongregacoesService } from 'src/app/shared/service/congregacoes.service';
 
 @Component({
@@ -10,7 +11,10 @@ export class CongregacoesComponent {
   estados: any[] = [];
   users: any[] = [];
 
-  constructor(private congregacoesService: CongregacoesService) {}
+  constructor(
+    private congregacoesService: CongregacoesService,
+    private router: Router
+  ) {}
 
   ngOnInit(): void {
     this.congregacoesService.getCongregacoes().subscribe((data) => {
@@ -30,6 +34,11 @@ export class CongregacoesComponent {
     });
 
     return totalCidades;
+  }
+
+  selecionarCongregacao(nomeCongregacao: string) {
+    // Navega para a rota com o nome da congregação como parâmetro
+    this.router.navigate([nomeCongregacao], { relativeTo: this.router.routerState.root.firstChild });
   }
 
 }

@@ -1,4 +1,4 @@
-
+<!-- 
 <pagination-controls (pageChange)="onPageChange($event)"
 previousLabel="Prev"
 nextLabel="Next"
@@ -15,6 +15,38 @@ nextLabel="Next"
       {{ evento.titulo }} - {{ evento.data }}
     </li>
   </ul>
+</div> -->
+
+
+<!-- Pagination Controls -->
+<div class="container mt-4">
+  <div class="d-flex justify-content-center">
+    <pagination-controls
+      class="pagination"
+      (pageChange)="onPageChange($event)"
+      previousLabel=""
+      nextLabel=""
+    >
+    </pagination-controls>
+  </div>
 </div>
 
-
+<!-- Meses e Eventos -->
+<div class="container mt-4">
+  <div *ngFor="let mes of meses | paginate: { itemsPerPage: 1, currentPage: paginaAtual, totalItems: 12 }">
+    <!-- Mês com Heading -->
+    <div class="card mb-4 shadow-sm">
+      <div class="card-header bg-primary text-white">
+        <h2 class="card-title">{{ mes }}</h2>
+      </div>
+      <div class="card-body">
+        <ul class="list-group">
+          <li class="list-group-item" *ngFor="let evento of eventosPorMes[mes]">
+            <span class="font-weight-bold">{{ evento.titulo }}</span>
+            <span class="text-muted"> - {{ evento.data }}</span>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

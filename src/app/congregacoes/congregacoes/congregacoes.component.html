@@ -1,12 +1,30 @@
-<div *ngFor="let estado of estados">
-    <h2>{{ estado.nome }}</h2>
-    <div *ngFor="let cidade of estado.cidades">
-      <span>{{ cidade.nome }}</span> <span> - {{ cidade.endereco }}</span>
-      <!-- <p>{{ cidade.descricao }}</p> -->
+<!-- Estados e Cidades com Cards -->
+<div class="container mt-4">
+  <div *ngFor="let estado of estados" class="mb-4">
+    <h2 class="text-primary">{{ estado.nome }}</h2>
+    
+    <div class="card">
+      <div class="card-body">
+        <ul class="list-group">
+          <li class="list-group-item" *ngFor="let cidade of estado.cidades">
+            <span class="font-weight-bold text-info" style="cursor: pointer;" (click)="selecionarCongregacao(cidade.nome)">
+              {{ cidade.nome }}
+            </span> 
+            <span class="text-muted"> - {{ cidade.endereco }}</span>
+          </li>
+        </ul>
+      </div>
     </div>
+  </div>
 </div>
 
-<div *ngFor="let user of users">
-  <span>{{ user.firstName }}</span> <span> - {{ user.email }}</span>
-  <!-- <p>{{ cidade.descricao }}</p> -->
+<!-- Users List com List Group -->
+<div class="container mt-4">
+  <h4 class="mb-3">Lista de Usuários - teste api</h4>
+  <ul class="list-group">
+    <li class="list-group-item" *ngFor="let user of users">
+      <span class="font-weight-bold">{{ user.firstName }}</span>
+      <span class="text-muted"> - {{ user.email }}</span>
+    </li>
+  </ul>
 </div>

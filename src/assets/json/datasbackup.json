@@ -1,0 +1,250 @@
+{
+  "mes1": [
+      {
+          "icone": "../fotos/coruripe/coruripe_icone.jpg",
+          "titulo": "49º aniversário da Congregação de Coruripe-AL",
+          "pagina": "../coruripe.htm",
+          "data": "8 de janeiro de 1975",
+          "dataISO": "1975-01-08"
+      },
+      {
+          "icone": "../fotos/recife/recife_icone.jpg",
+          "titulo": "78º aniversário da Congregação de Recife-PE",
+          "pagina": "../recife.htm",
+          "data": "20 de janeiro de 1946",
+          "dataISO": "1946-01-20"
+      },
+      {
+          "icone": "../fotos/parana/parana_icone.jpg",
+          "titulo": "31º aniversário da Congregação de Luiziana-PR",
+          "pagina": "../parana.htm",
+          "data": "24 de janeiro de 1993",
+          "dataISO": "1993-01-24"
+      },
+      {
+          "icone": "",
+          "titulo": "Cultos às 19:20, em todas as Congregações, durante a semana de 7/1 a 14/01",
+          "pagina": "",
+          "data": "Semana de Oração",
+          "dataISO": ""
+      }
+  ],
+  "mes2": [
+      {
+          "icone": "../fotos/curitibanos/curitibanos_icone.jpg",
+          "titulo": "78º aniversário da Congregação de Curitibanos-SP",
+          "pagina": "../curitibanos.htm",
+          "data": "10 de fevereiro de 1946",
+          "dataISO": "1946-02-10"
+      },
+      {
+          "icone": "../fotos/doutor_miguel/dr_miguel_icone.jpg",
+          "titulo": "150º aniversário da Conversão do Doutor Miguel",
+          "pagina": "../conversao.htm",
+          "data": "22 de fevereiro de 1874",
+          "dataISO": "1874-02-22"
+      },
+      {
+          "icone": "../fotos/sao_luis/sao_luis_icone2.png",
+          "titulo": "47º aniversário da Congregação de São Luís-MA",
+          "pagina": "../sao_luis.htm",
+          "data": "27 de fevereiro de 1977",
+          "dataISO": "1977-02-27"
+      },
+      {
+          "icone": "../fotos/d_isabel/d_isabel_icone.jpg",
+          "titulo": "168º aniversário do nascimento de Dona Isabel",
+          "pagina": "../d_isabel.htm",
+          "data": "29 de fevereiro de 1856",
+          "dataISO": "1856-02-29"
+      },
+      {
+          "icone": "../fotos/guaianazes/guaianazes_icone.jpg",
+          "titulo": "48º aniversário da Congregação de Guaianazes-SP",
+          "pagina": "../guaianazes.htm",
+          "data": "29 de fevereiro de 1976",
+          "dataISO": "1976-02-29"
+      }
+  ],
+  "mes3": [
+      {
+          "icone": "../fotos/pitangueiras/pitangueiras_icone.jpg",
+          "titulo": "37º aniversário da Congregação de Pitangueiras-SP",
+          "pagina": "../pitangueiras.htm",
+          "data": "22 de março de 1987",
+          "dataISO": "1987-03-22"
+      }
+  ],
+  "mes4": [
+      {
+          "icone": "../fotos/canoas/rio_grande_icone.jpg",
+          "titulo": "66º aniversário da Congregação de Canoas-RS",
+          "pagina": "../rio_grande.htm",
+          "data": "20 de abril de 1958",
+          "dataISO": "1958-04-20"
+      }
+  ],
+  "mes5": [
+      {
+          "icone": "../fotos/vigario_geral/vigario_geral_icone.jpg",
+          "titulo": "91º aniversário da Congregação de Vigário Geral-RJ",
+          "pagina": "../vigario_geral.htm",
+          "data": "14 de maio de 1933",
+          "dataISO": "1933-05-14"
+      },
+      {
+          "icone": "../fotos/rio_pequeno/rio_pequeno_icone.jpg",
+          "titulo": "73º aniversário da Congregação de Rio Pequeno-SP",
+          "pagina": "../rio_pequeno.htm",
+          "data": "20 de maio de 1951",
+          "dataISO": "1951-05-20"
+      }
+  ],
+  "mes6": [
+      {
+          "icone": "../fotos/pocoes/pocoes_icone.jpg",
+          "titulo": "70º aniversário da Congregação de Poções-BA",
+          "pagina": "../pocoes.htm",
+          "data": "6 de junho de 1954",
+          "dataISO": "1954-06-06"
+      },
+      {
+          "icone": "../fotos/vitoria_conquista/vitoria_conquista_icone.jpg",
+          "titulo": "27º aniversário da Congregação de Vitória da Conquista-BA",
+          "pagina": "../vitoria_conquista.htm",
+          "data": "7 de junho de 1997",
+          "dataISO": "1997-06-07"
+      },
+      {
+          "icone": "../fotos/bangu/bangu_icone.jpg",
+          "titulo": "122º aniversário da Congregação de Bangú -RJ",
+          "pagina": "../bangu.htm",
+          "data": "13 de junho de 1902",
+          "dataISO": "1902-06-13"
+      },
+      {
+          "icone": "../fotos/arraial/arraial_icone.jpg",
+          "titulo": "46º aniversário da Congregação de Arraial-SP",
+          "pagina": "../arraial.htm",
+          "data": "18 de junho de 1978",
+          "dataISO": "1978-06-18"
+      },
+      {
+          "icone": "../fotos/brasilia/brasilia_icone.jpg",
+          "titulo": "32º aniversário da Congregação de Brasília-DF",
+          "pagina": "../brasilia.htm",
+          "data": "21 de junho de 1992",
+          "dataISO": "1992-06-21"
+      },
+      {
+          "icone": "../fotos/recife/recife_icone.jpg",
+          "titulo": "70º aniversário da reabertura da Congregação de Recife-PE",
+          "pagina": "../recife.htm",
+          "data": "27 de junho de 1954",
+          "dataISO": "1954-06-27"
+      },
+      {
+          "icone": "../fotos/guaiauna/guaiauna_icone.jpg",
+          "titulo": "83º aniversário da Congregação de Guaiaúna-SP",
+          "pagina": "../guaiauna.htm",
+          "data": "29 de junho de 1941",
+          "dataISO": "1941-06-29"
+      }
+  ],
+  "mes7": [
+      {
+          "icone": "../fotos/rondonia/rondonia-icone.jpg",
+          "titulo": "39º aniversário da Congregação de Rondônia-RO",
+          "pagina": "rondonia.htm",
+          "data": "21 de julho de 1985",
+          "dataISO": "1985-07-21"
+      },
+      {
+          "icone": "../fotos/volta_redonda/volta_redonda_icone.jpg",
+          "titulo": "38º aniversário da Congregação de Volta Redonda-RJ",
+          "pagina": "volta_redonda.htm",
+          "data": "27 de julho de 1986",
+          "dataISO": "1986-07-27"
+      }
+  ],
+  "mes8": [
+      {
+          "icone": "../fotos/campinas/campinas_icone.jpg",
+          "titulo": "38º aniversário da Congregação de Campinas-SP",
+          "pagina": "../campinas.htm",
+          "data": "24 de agosto de 1986",
+          "dataISO": "1986-08-24"
+      },
+      {
+          "icone": "../fotos/Sede-SP/sede_sp_icone.jpg",
+          "titulo": "111º aniversário da Congregação Sede de São Paulo-SP",
+          "pagina": "../fotos/Sede-SP/sede_sp_fotos.htm",
+          "data": "26 de agosto de 1913",
+          "dataISO": "1913-08-26"
+      }
+  ],
+  "mes9": [
+      {
+          "icone": "../fotos/rev_Israel/rev_israel_icone.jpg",
+          "titulo": "141º aniversário do nascimento do Rev. Israel Vieira Ferreira - o Filho da Promessa",
+          "pagina": "../revIsrael.htm",
+          "data": "4 de setembro de 1883",
+          "dataISO": "1883-09-04"
+      },
+      {
+          "icone": "../fotos/rio/templo_novo/sede_rio_icone2.jpg",
+          "titulo": "145º aniversário da fundação da Igreja Evangélica Brasileira",
+          "pagina": "../fundacao.htm",
+          "data": "5 de setembro de 1879",
+          "dataISO": "1879-09-05"
+      }
+  ],
+  "mes10": [
+      {
+          "icone": "../fotos/ihm/ihm_icone.jpg",
+          "titulo": "17º aniversário da Congregação do IHM em Brasília-DF",
+          "pagina": "../ihm.htm",
+          "data": "23 de outubro de 2007",
+          "dataISO": "2007-10-23"
+      },
+      {
+          "icone": "../fotos/benjamin_brasil/benjamin_brasil_icone.jpg",
+          "titulo": "66º aniversário da Congregação Benjamin Brasil",
+          "pagina": "../benjamin_brasil.htm",
+          "data": "28 de outubro de 1958",
+          "dataISO": "1958-10-28"
+      }
+  ],
+  "mes11": [
+      {
+          "icone": "../fotos/saude/saude_icone.jpg",
+          "titulo": "1ª Conferência sobre Saúde Mental da Igreja Evangélica Brasileira",
+          "pagina": "../saude.htm",
+          "data": "13 de novembro de 2021",
+          "dataISO": "2021-11-13"
+      },
+      {
+          "icone": "../fotos/piracicaba/piracicaba_icone.jpg",
+          "titulo": "76º aniversário da Congregação de Piracicaba-SP",
+          "pagina": "../piracicaba.htm",
+          "data": "27 de novembro de 1944",
+          "dataISO": "1944-11-27"
+      }
+  ],
+  "mes12": [
+      {
+          "icone": "../fotos/retiro/retiro_icone.jpg",
+          "titulo": "65º Retiro Espiritual da Igreja Evangélica Brasileira",
+          "pagina": "../retiro.htm",
+          "data": "7 de dezembro de 1959",
+          "dataISO": "1959-12-07"
+      },
+      {
+          "icone": "../fotos/correio/correio_icone.jpg",
+          "titulo": "147º aniversário da Casa do Correio da Igreja Evangélica Brasileira",
+          "pagina": "../correio.htm",
+          "data": "14 de dezembro de 1875",
+          "dataISO": "1875-12-14"
+      }
+  ]
+}

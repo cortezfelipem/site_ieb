@@ -31,6 +31,10 @@ const routes: Routes = [
     path: 'dr-miguel',
     loadChildren: () => import('./dr-miguel/dr-miguel.module').then(m => m.DrMiguelModule)
   },
+  {
+    path: 'historico',
+    loadChildren: () => import('./historico/historico.module').then(m => m.HistoricoModule)
+  },
 ];
 // const routerOptions: ExtraOptions = {
 //   enableTracing: true, // Ativa o modo de depuração do roteamento
