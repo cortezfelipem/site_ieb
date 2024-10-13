@@ -36,7 +36,7 @@ nextLabel="Next"
   <div *ngFor="let mes of meses | paginate: { itemsPerPage: 1, currentPage: paginaAtual, totalItems: 12 }">
     <!-- Mês com Heading -->
     <div class="card mb-4 shadow-sm">
-      <div class="card-header bg-primary text-white">
+      <div class="card-header text-white" style="background-color: #c78b50">
         <h2 class="card-title">{{ mes }}</h2>
       </div>
       <div class="card-body">

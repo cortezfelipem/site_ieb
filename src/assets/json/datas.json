@@ -2,66 +2,66 @@
   "mes1": [
     {
       "icone": "../fotos/coruripe/coruripe_icone.jpg",
-      "titulo": "aniversário da Congregação de Coruripe-AL",
+      "titulo": "aniversario da Congregação de Coruripe-AL",
       "pagina": "../coruripe.htm",
       "data": "8 de janeiro de 1975",
       "dataISO": "1975-01-08"
     },
     {
       "icone": "../fotos/recife/recife_icone.jpg",
-      "titulo": "aniversário da Congregação de Recife-PE",
+      "titulo": "aniversario da Congregação de Recife-PE",
       "pagina": "../recife.htm",
       "data": "20 de janeiro de 1946",
       "dataISO": "1946-01-20"
     },
     {
       "icone": "../fotos/parana/parana_icone.jpg",
-      "titulo": "aniversário da Congregação de Luiziana-PR",
+      "titulo": "aniversario da Congregação de Luiziana-PR",
       "pagina": "../parana.htm",
       "data": "24 de janeiro de 1993",
       "dataISO": "1993-01-24"
     },
     {
       "icone": "",
-      "titulo": "Cultos às 19:20, em todas as Congregações, durante a semana de 2/1 a 7/01",
+      "titulo": "Cultos às 19:20, em todas as Congregações, durante a semana de 7/1 a 14/01",
       "pagina": "",
       "data": "Semana de Oração",
-      "dataISO": null
+      "dataISO": ""
     }
   ],
 
   "mes2": [
     {
       "icone": "../fotos/curitibanos/curitibanos_icone.jpg",
-      "titulo": "aniversário da Congregação de Curitibanos-SP",
+      "titulo": "aniversario da Congregação de Curitibanos-SP",
       "pagina": "../curitibanos.htm",
       "data": "10 de fevereiro de 1946",
       "dataISO": "1946-02-10"
     },
     {
       "icone": "../fotos/doutor_miguel/dr_miguel_icone.jpg",
-      "titulo": "aniversário da Conversão do Doutor Miguel",
+      "titulo": "aniversario da Conversão do Doutor Miguel",
       "pagina": "../conversao.htm",
       "data": "22 de fevereiro de 1874",
       "dataISO": "1874-02-22"
     },
     {
       "icone": "../fotos/sao_luis/sao_luis_icone2.png",
-      "titulo": "aniversário da Congregação de São Luís-MA",
+      "titulo": "aniversario da Congregação de São Luís-MA",
       "pagina": "../sao_luis.htm",
       "data": "27 de fevereiro de 1977",
       "dataISO": "1977-02-27"
     },
     {
       "icone": "../fotos/d_isabel/d_isabel_icone.jpg",
-      "titulo": "aniversário do nascimento de Dona Isabel",
+      "titulo": "aniversario do nascimento de Dona Isabel",
       "pagina": "../d_isabel.htm",
       "data": "29 de fevereiro de 1856",
       "dataISO": "1856-02-29"
     },
     {
       "icone": "../fotos/guaianazes/guaianazes_icone.jpg",
-      "titulo": "aniversário da Congregação de Guaianazes-SP",
+      "titulo": "aniversario da Congregação de Guaianazes-SP",
       "pagina": "../guaianazes.htm",
       "data": "29 de fevereiro de 1976",
       "dataISO": "1976-02-29"
@@ -71,7 +71,7 @@
   "mes3": [
     {
       "icone": "../fotos/pitangueiras/pitangueiras_icone.jpg",
-      "titulo": "aniversário da Congregação de Pitangueiras-SP",
+      "titulo": "aniversario da Congregação de Pitangueiras-SP",
       "pagina": "../pitangueiras.htm",
       "data": "22 de março de 1987",
       "dataISO": "1987-03-22"
@@ -81,7 +81,7 @@
   "mes4": [
     {
       "icone": "../fotos/canoas/rio_grande_icone.jpg",
-      "titulo": "aniversário da Congregação de Canoas-RS",
+      "titulo": "aniversario da Congregação de Canoas-RS",
       "pagina": "../rio_grande.htm",
       "data": "20 de abril de 1958",
       "dataISO": "1958-04-20"
@@ -91,14 +91,14 @@
   "mes5": [
     {
       "icone": "../fotos/vigario_geral/vigario_geral_icone.jpg",
-      "titulo": "aniversário da Congregação de Vigário Geral-RJ",
+      "titulo": "aniversario da Congregação de Vigário Geral-RJ",
       "pagina": "../vigario_geral.htm",
       "data": "14 de maio de 1933",
       "dataISO": "1933-05-14"
     },
     {
       "icone": "../fotos/rio_pequeno/rio_pequeno_icone.jpg",
-      "titulo": "aniversário da Congregação de Rio Pequeno-SP",
+      "titulo": "aniversario da Congregação de Rio Pequeno-SP",
       "pagina": "../rio_pequeno.htm",
       "data": "20 de maio de 1951",
       "dataISO": "1951-05-20"
@@ -108,49 +108,49 @@
   "mes6": [
     {
       "icone": "../fotos/pocoes/pocoes_icone.jpg",
-      "titulo": "aniversário da Congregação de Poções-BA",
+      "titulo": "aniversario da Congregação de Poções-BA",
       "pagina": "../pocoes.htm",
       "data": "6 de junho de 1954",
       "dataISO": "1954-06-06"
     },
     {
       "icone": "../fotos/vitoria_conquista/vitoria_conquista_icone.jpg",
-      "titulo": "aniversário da Congregação de Vitória da Conquista-BA",
+      "titulo": "aniversario da Congregação de Vitória da Conquista-BA",
       "pagina": "../vitoria_conquista.htm",
-      "data": "7 de junho de 1998",
-      "dataISO": "1998-06-07"
+      "data": "7 de junho de 1997",
+      "dataISO": "1997-06-07"
     },
     {
       "icone": "../fotos/bangu/bangu_icone.jpg",
-      "titulo": "aniversário da Congregação de Bangú -RJ",
+      "titulo": "aniversario da Congregação de Bangú-RJ",
       "pagina": "../bangu.htm",
       "data": "13 de junho de 1902",
       "dataISO": "1902-06-13"
     },
     {
       "icone": "../fotos/arraial/arraial_icone.jpg",
-      "titulo": "aniversário da Congregação de Arraial-SP",
+      "titulo": "aniversario da Congregação de Arraial-SP",
       "pagina": "../arraial.htm",
       "data": "18 de junho de 1978",
       "dataISO": "1978-06-18"
     },
     {
       "icone": "../fotos/brasilia/brasilia_icone.jpg",
-      "titulo": "aniversário da Congregação de Brasília-DF",
+      "titulo": "aniversario da Congregação de Brasília-DF",
       "pagina": "../brasilia.htm",
       "data": "21 de junho de 1992",
       "dataISO": "1992-06-21"
     },
     {
       "icone": "../fotos/recife/recife_icone.jpg",
-      "titulo": "aniversário da reabertura da Congregação de Recife-PE",
+      "titulo": "aniversario da reabertura da Congregação de Recife-PE",
       "pagina": "../recife.htm",
       "data": "27 de junho de 1954",
       "dataISO": "1954-06-27"
     },
     {
       "icone": "../fotos/guaiauna/guaiauna_icone.jpg",
-      "titulo": "aniversário da Congregação de Guaiaúna-SP",
+      "titulo": "aniversario da Congregação de Guaiaúna-SP",
       "pagina": "../guaiauna.htm",
       "data": "29 de junho de 1941",
       "dataISO": "1941-06-29"
@@ -160,15 +160,15 @@
   "mes7": [
     {
       "icone": "../fotos/rondonia/rondonia-icone.jpg",
-      "titulo": "aniversário da Congregação de Rondônia-RO",
-      "pagina": "../rondonia.htm",
+      "titulo": "aniversario da Congregação de Rondônia-RO",
+      "pagina": "rondonia.htm",
       "data": "21 de julho de 1985",
       "dataISO": "1985-07-21"
     },
     {
       "icone": "../fotos/volta_redonda/volta_redonda_icone.jpg",
-      "titulo": "aniversário da Congregação de Volta Redonda-RJ",
-      "pagina": "../volta_redonda.htm",
+      "titulo": "aniversario da Congregação de Volta Redonda-RJ",
+      "pagina": "volta_redonda.htm",
       "data": "27 de julho de 1986",
       "dataISO": "1986-07-27"
     }
@@ -177,161 +177,116 @@
   "mes8": [
     {
       "icone": "../fotos/campinas/campinas_icone.jpg",
-      "titulo": "aniversário da Congregação de Campinas-SP",
+      "titulo": "aniversario da Congregação de Campinas-SP",
       "pagina": "../campinas.htm",
       "data": "24 de agosto de 1986",
       "dataISO": "1986-08-24"
     },
     {
       "icone": "../fotos/Sede-SP/sede_sp_icone.jpg",
-      "titulo": "aniversário da Congregação Sede de São Paulo-SP",
+      "titulo": "aniversario da Congregação Sede de São Paulo-SP",
       "pagina": "../fotos/Sede-SP/sede_sp_fotos.htm",
       "data": "26 de agosto de 1913",
       "dataISO": "1913-08-26"
     }
   ],
-
   "mes9": [
-    {
-      "icone": "../fotos/rev_Israel/rev_israel_icone.jpg",
-      "titulo": "aniversário do nascimento do Rev. Israel Vieira Ferreira - o Filho da Promessa",
-      "pagina": "../revIsrael.htm",
-      "data": "4 de setembro de 1883",
-      "dataISO": "1883-09-04"
-    },
-    {
-      "icone": "../fotos/brasilia/brasilia_icone.jpg",
-      "titulo": "aniversário da Congregação de Brasília-DF",
-      "pagina": "../brasilia.htm",
-      "data": "15 de setembro de 1975",
-      "dataISO": "1975-09-15"
-    },
-    {
-      "icone": "../fotos/cajati/cajati_icone.jpg",
-      "titulo": "aniversário da Congregação de Cajati-SP",
-      "pagina": "../cajati.htm",
-      "data": "23 de setembro de 1981",
-      "dataISO": "1981-09-23"
-    },
-    {
-      "icone": "../fotos/manaus/manaus_icone.jpg",
-      "titulo": "aniversário da Congregação de Manaus-AM",
-      "pagina": "../manaus.htm",
-      "data": "25 de setembro de 1963",
-      "dataISO": "1963-09-25"
-    }
-  ],
-
-  "mes10": [
-    {
-      "icone": "../fotos/espirito_santo/espirito_santo_icone.jpg",
-      "titulo": "aniversário da Congregação do Espírito Santo-ES",
-      "pagina": "../espirito_santo.htm",
-      "data": "9 de outubro de 1978",
-      "dataISO": "1978-10-09"
-    },
-    {
-      "icone": "../fotos/contagem/contagem_icone.jpg",
-      "titulo": "aniversário da Congregação de Contagem-MG",
-      "pagina": "../contagem.htm",
-      "data": "9 de outubro de 1978",
-      "dataISO": "1978-10-09"
-    },
-    {
-      "icone": "../fotos/avare/avare_icone.jpg",
-      "titulo": "aniversário da Congregação de Avaré-SP",
-      "pagina": "../avare.htm",
-      "data": "14 de outubro de 1959",
-      "dataISO": "1959-10-14"
-    },
-    {
-      "icone": "../fotos/franca/franca_icone.jpg",
-      "titulo": "aniversário da Congregação de Franca-SP",
-      "pagina": "../franca.htm",
-      "data": "28 de outubro de 1949",
-      "dataISO": "1949-10-28"
-    }
-  ],
-  "mes11": [
-      {
-        "icone": "../fotos/saude/saude_icone.jpg",
-        "titulo": "1ª Conferência sobre Saúde Mental da Igreja Evangélica Brasileira",
-        "pagina": "../saude.htm",
-        "data": "13 de novembro de 2021",
-        "dataISO": "2021-11-13"
-      },
-      {
-        "icone": "../fotos/mogi_mirim/mogi_mirim_icone.jpg",
-        "titulo": "aniversário da Congregação de Mogi Mirim -SP",
-        "pagina": "../mogi_mirim.htm",
-        "data": "19 de novembro de 1989",
-        "dataISO": "1989-11-19"
-      },
-      {
-        "icone": "../fotos/piracicaba/piracicaba_icone.jpg",
-        "titulo": "76º aniversário da Congregação de Piracicaba-SP",
-        "pagina": "../piracicaba.htm",
-        "data": "27 de novembro de 1944",
-        "dataISO": "1944-11-27"
-      }
+        {
+            "icone": "../fotos/rev_Israel/rev_israel_icone.jpg",
+            "titulo": "aniversário do nascimento do Rev. Israel Vieira Ferreira - o Filho da Promessa",
+            "pagina": "../revIsrael.htm",
+            "data": "4 de setembro de 1883",
+            "dataISO": "1883-09-04"
+        },
+        {
+            "icone": "../fotos/rio/templo_novo/sede_rio_icone2.jpg",
+            "titulo": "aniversário da fundação da Igreja Evangélica Brasileira",
+            "pagina": "../fundacao.htm",
+            "data": "11 de setembro de 1879",
+            "dataISO": "1879-09-11"
+        },
+        {
+            "icone": "../fotos/d_isabel/d_isabel_icone.jpg",
+            "titulo": "aniversário do casamento do Doutor Miguel com Dona Isabel",
+            "pagina": "../d_isabel.htm",
+            "data": "24 de setembro de 1882",
+            "dataISO": "1882-09-24"
+        },
+        {
+            "icone": "../fotos/rev_Israel/rev_israel_icone2.jpg",
+            "titulo": "aniversário da ordenação do Rev. Israel Vieira Ferreira",
+            "pagina": "../24_setembro_1941.htm",
+            "data": "24 de setembro de 1911",
+            "dataISO": "1911-09-24"
+        }
     ],
-  
+    "mes10": [
+        {
+            "icone": "../fotos/bonsucesso/bonsucesso_icone.jpg",
+            "titulo": "aniversário da Congregação de Bonsucesso -RJ",
+            "pagina": "../bonsucesso.htm",
+            "data": "19 de outubro de 1881",
+            "dataISO": "1881-10-19"
+        },
+        {
+            "icone": "../fotos/pouso_alegre/pouso_alegre_icone.jpg",
+            "titulo": "aniversário da Congregação de Pouso Alegre -MG",
+            "pagina": "../pouso_alegre.htm",
+            "data": "19 de outubro de 1975",
+            "dataISO": "1975-10-19"
+        }
+    ],
+    "mes11": [
+        {
+            "icone": "../fotos/mogi_mirim/mogi_mirim_icone.jpg",
+            "titulo": "aniversário da Congregação de Mogi Mirim -SP",
+            "pagina": "../mogi_mirim.htm",
+            "data": "19 de novembro de 1989",
+            "dataISO": "1989-11-19"
+        }
+    ],
     "mes12": [
-      {
-        "icone": "../fotos/retiro/retiro_icone.jpg",
-        "titulo": "65º Retiro Espiritual da Igreja Evangélica Brasileira",
-        "pagina": "../retiro.htm",
-        "data": "7 de dezembro de 1959",
-        "dataISO": "1959-12-07"
-      },
-      {
-          "icone": "../fotos/correio/correio_icone.jpg",
-          "titulo": "147º aniversário da Casa do Correio da Igreja Evangélica Brasileira",
-          "pagina": "../correio.htm",
-          "data": "14 de dezembro de 1875",
-          "dataISO": "1875-12-14"
-      },
-      {
-        "icone": "../fotos/doutor_miguel/dr_miguel_icone.jpg",
-        "titulo": "aniversário do nascimento do fundador da Igreja: Doutor Miguel Vieira Ferreira",
-        "pagina": "/doutor_miguel/dr_miguel.html",
-        "data": "10 de dezembro de 1837",
-        "dataISO": "1837-12-10"
-      },
-      {
-        "icone": "../fotos/pirassununga/pirassununga_icone.jpg",
-        "titulo": "aniversário da Congregação de Pirassununga -SP",
-        "pagina": "../pirassununga.htm",
-        "data": "15 de dezembro de 1974",
-        "dataISO": "1974-12-15"
-      },
-      {
-        "icone": "../fotos/tres_barras/tres_barras_icone.jpg",
-        "titulo": "aniversário da Congregação de Três Barras -BA",
-        "pagina": "../tres_barras.htm",
-        "data": "24 de dezembro de 1916",
-        "dataISO": "1837-12-24"
-      },
-      {
-        "icone": "",
-        "titulo": "Natal - Culto de Vigília, nas Congregações, no dia 24 às 23:30",
-        "pagina": "",
-        "data": "25 de dezembro",
-        "dataISO": "1837-12-25"
-      },
-      {
-        "icone": "../fotos/iguai/iguai_icone.jpg",
-        "titulo": "aniversário da Congregação de Iguaí -BA",
-        "pagina": "../iguai.htm",
-        "data": "26 de dezembro de 1993",
-        "dataISO": "1837-12-26"
-      },
-      {
-        "icone": "",
-        "titulo": "Ano novo - Culto de Vigília, nas Congregações, no dia 31 às 23:30",
-        "pagina": "",
-        "data": "31 de dezembro",
-        "dataISO": "1837-12-31"
-      }
+        {
+            "icone": "../fotos/doutor_miguel/dr_miguel_icone.jpg",
+            "titulo": "aniversário do nascimento do fundador da Igreja: Doutor Miguel Vieira Ferreira",
+            "pagina": "/doutor_miguel/dr_miguel.html",
+            "data": "10 de dezembro de 1837",
+            "dataISO": "1837-12-10"
+        },
+        {
+            "icone": "../fotos/pirassununga/pirassununga_icone.jpg",
+            "titulo": "aniversário da Congregação de Pirassununga -SP",
+            "pagina": "../pirassununga.htm",
+            "data": "15 de dezembro de 1974",
+            "dataISO": "1974-12-15"
+        },
+        {
+            "icone": "../fotos/tres_barras/tres_barras_icone.jpg",
+            "titulo": "aniversário da Congregação de Três Barras -BA",
+            "pagina": "../tres_barras.htm",
+            "data": "24 de dezembro de 1916",
+            "dataISO": "1916-12-24"
+        },
+        {
+            "icone": "",
+            "titulo": "Natal - Culto de Vigília, nas Congregações, no dia 24 às 23:30",
+            "pagina": "",
+            "data": "25 de dezembro",
+            "dataISO": "2024-12-25"
+        },
+        {
+            "icone": "../fotos/iguai/iguai_icone.jpg",
+            "titulo": "aniversário da Congregação de Iguaí -BA",
+            "pagina": "../iguai.htm",
+            "data": "26 de dezembro de 1993",
+            "dataISO": "1993-12-26"
+        },
+        {
+            "icone": "",
+            "titulo": "Ano novo - Culto de Vigília, nas Congregações, no dia 31 às 23:30",
+            "pagina": "",
+            "data": "31 de dezembro",
+            "dataISO": "2024-12-31"
+        }
     ]
 }

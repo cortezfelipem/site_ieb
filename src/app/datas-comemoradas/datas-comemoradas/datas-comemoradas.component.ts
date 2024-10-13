@@ -39,10 +39,16 @@ export class DatasComemoradasComponent {
       this.eventosPorMes[mes] = eventos.map(evento => {
         // Adiciona o número do aniversário ao título
         const aniversarioNumero = this.calcularNumeroAniversario(evento.dataISO);
-        return {
-          ...evento,
-          titulo: `${aniversarioNumero}º ${evento.titulo}` // Formata o título com o número do aniversário
-        };
+        if(aniversarioNumero != 0){
+          return {
+            ...evento,
+            titulo: `${aniversarioNumero}º ${evento.titulo}` // Formata o título com o número do aniversário
+          };
+        }else{
+          return {
+            ...evento
+          };
+        }
       });
     });
   }
@@ -52,7 +58,7 @@ export class DatasComemoradasComponent {
 
     const data = new Date(dataISO);
     const anoAtual = new Date().getFullYear();
-    const numeroAniversario = anoAtual - data.getFullYear() + 1; // +1 para contar o ano atual
+    const numeroAniversario = anoAtual - data.getFullYear();
     return numeroAniversario;
   }
 
